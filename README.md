@@ -1,3 +1,7 @@
+---
+layout: page
+title: Niri buruz
+---
 # Niri buruz
 
 Kaixo! Unai naiz.
