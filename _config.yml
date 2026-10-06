@@ -1,6 +1,5 @@
 tittle: Niri Buruz!
 theme: minima
-header _pages:
-  - README.md
-  - gutuko-dudana.md
-  
+header_pages:
+  - index.md
+  - gustuko-dudana.md
